@@ -7,5 +7,5 @@ Datasets:
 [Hypertension + Hyperlipidemia comorbidity](https://data.wprdc.org/dataset/hypertension-hyperlipidemia-comorbidity)
 
 Group Members:
-  Peter Ju [zij15@pitt.edu](zij15@pitt.edu)
+  Peter Ju [zij15@pitt.edu](zij15@pitt.edu) <br>
   Leo Liang
