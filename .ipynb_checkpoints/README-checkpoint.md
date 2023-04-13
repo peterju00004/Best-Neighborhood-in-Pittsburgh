@@ -8,4 +8,4 @@ Datasets:
 
 Group Members:
   - Peter Ju [zij15@pitt.edu](zij15@pitt.edu) <br>
-  - Leo Liang [lel144@pitt.edu](lel144@pitt.edu) <br>
+  - Leo Liang
