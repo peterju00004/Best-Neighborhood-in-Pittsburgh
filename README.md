@@ -1,7 +1,7 @@
 # CMPINF 0010 Final Project
 CMPINF 0010 FINAL PROJECT REPOSITORY - By Bussin' (Canvas Group #24)
 
-This project provides an insight to which neighborhood in Pittsbrugh is the best rated on a 3-dimensional environmental-and-health metric. Submetrics include pollution (PM 2.5), illegal dump sites, and hypertensino and hyperlipidemia situations in each of the neighborhoods.
+This project provides an insight to which neighborhood in Pittsbrugh is the best rated on a 3-dimensional environmental-and-health metric. Submetrics include pollution (PM 2.5), illegal dump sites, and hypertension and hyperlipidemia situations in each of the neighborhoods.
 
 Upper Lawrenceville is the best neighborhood!
 ![](result.png)
